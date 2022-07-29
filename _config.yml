@@ -89,8 +89,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: MetaUs
-        link: https://github.com/KimJinoook/metaus
-        link_text: github.com/KimJinoook/metaus
+        link: https://github.com/dhcndduf/metaus
+        link_text: github.com/dhcndduf/metaus
         # sub_title: 
         caption: 2022.05.30 ~ 2022.07.18
         #additional_links:
