@@ -68,7 +68,7 @@ content:
         title: Backend
         description: | # this will include new lines to allow paragraphs
           * Java, MyBatis
-          * Spring Boot, Spring MVC, Spring Security
+          * Spring Boot, Spring MVC
           * Maven
       - layout: left
         title: Database
@@ -104,6 +104,7 @@ content:
            소상공인의 메타버스 진출을 돕기 위한 크리에이터 - 소상공인 연결 플랫폼
         description: | # this will include new lines to allow paragraphs
           * java security, spring security 활용 비밀번호 암호화
+          * 카카오 로그인
           * Three.js와 ZipLoader 이용, 압축파일 해제 없이 3D모델 로딩
           * 관리자 계정,비밀번호 변경 기능 구현
           * 회원 조회 기능
